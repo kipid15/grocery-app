@@ -1,6 +1,13 @@
 <template>
-  <div class="hello">
+  <div>
     <h1>SearchPage</h1>
+    <div>
+     Brand: <input type="text" name="brand" value="Brand"><br>
+     Product Name: <input type="text" name="productName" value="Product Name"><br>
+    </div>
+    <div>
+      TABLE
+    </div>
   </div>
 </template>
 
